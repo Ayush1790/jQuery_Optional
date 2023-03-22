@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    justify-content: center;
+    margin: 20px 5px;
+
+}
+/* table  */
+.display__table {
+    padding: 10px;
+    font-size: 15px;
+    border-collapse: collapse;
+    border: 1px solid lawngreen;
+    margin: 5px auto;
+}
+
+.display__table td,
+th {
+    padding: 10px;
+    border: 1px solid lawngreen;
+    width: 20%;
+}
+
+input {
+    width: 10%;
+    padding: 3px;
+    margin-left: 30px;
+
+}
+
+.display {
+    justify-content: center;
+    text-align: center;
+}
+/* button */
+button {
+    padding: 10px;
+    margin: 10px;
+    background-color: deepskyblue;
+    color: white;
+    border: 1px solid white;
+}
